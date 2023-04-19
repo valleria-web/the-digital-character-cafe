@@ -1,13 +1,13 @@
 ---
 author : "Rajdeep Singh"
-categories : ["npm"]
+categories : ["npm", "npm-cli"]
 date : "2022-03-20T13:09:24Z"
 description : "Npm install command help to install package from npmjs.org"
-image : "images/clay-pepes-1157.jpg"
+cover_image: "images/clay-pepes-1157.jpg"
 slug : "how-is-npm-install-command"
 summary : "Npm install command help to install package from npmjs.org"
-tags : ["npm"]
-title : "Command"
+tags : ["npm", "npm-cli"]
+title : "Comando"
 draft : false
 ---
 ![npm install command](/images/clay-pepes-1157.jpg "npm install command")"

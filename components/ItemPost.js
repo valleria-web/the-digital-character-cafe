@@ -1,19 +1,24 @@
-import Link from 'next/link'
-
+import Link from 'next/link';
+import Image from 'next/image';
 import { ImageUrl } from "../utils";
 
 export default function ItemPost({ post: {post } }) {
    
-  // const imageUrl= process.env.SITE_URL + post.images[0]
- 
-
-  // console.log(imageUrl,' imageUrl ')
-
-  const date = new Date(post.date)
+  const date = new Date(post.date);
 
   return (
     <div className="card mb-4">
-      <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={ ImageUrl(post.images[0])} alt={post.title} /></a>
+      <Link href={`/blog/${post.slug}`}>
+        <a>
+          <Image
+            className="card-img-top"
+            src={ImageUrl(post.images[0])}
+            alt={post.title}
+            width={200} // adjust this to your desired width
+            height={200} // adjust this to your desired height
+          />
+        </a>
+      </Link>
       <div className="card-body">
         <div className="small text-muted">{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`}</div>
         <h2 className="card-title">{post.title}</h2>
@@ -23,7 +28,5 @@ export default function ItemPost({ post: {post } }) {
         </Link>
       </div>
     </div>
-
-    
-  )
+  );
 }

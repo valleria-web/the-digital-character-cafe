@@ -3,7 +3,7 @@ author : "Rajdeep Singh"
 categories : ["npm install command"]
 date : "2022-03-20T13:09:24Z"
 description : "Npm install command help to install package from npmjs.org"
-image : "images/clay-pepes-1157.jpg"
+cover_image: "images/clay-pepes-1157.jpg"
 slug : "how-is-npm-install-command"
 summary : "Npm install command help to install package from npmjs.org"
 tags : ["npm install command"]
