@@ -1,4 +1,7 @@
 export default function Staff() {
-    return
-    <div>Working on it</div>
+  return (
+    <div className="container">
+      <h1>Working on it</h1>
+    </div>
+  );
 }
