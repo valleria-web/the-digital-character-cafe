@@ -27,7 +27,7 @@ export default function Post({ post }) {
         <h2 className="card-title">{post.frontmatter.title}</h2>
         <p className="card-text">{post.frontmatter.summary}</p>
         <Link href={`/blog/${post.slug}`}>
-          <a className='btn'>Read More</a>
+          <a className='btn btn-primary'>Read More</a>
         </Link>
       </div>
     </div>

@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import Post from '../components/Post'
 import Banner from "../components/Banner";
 import search from "../search.json";
@@ -35,7 +34,7 @@ export default function Search() {
         title="Search the page"
         description="Find the search result page"
         openGraph={{
-          url: 'http://officialrajdeepsingh.dev',
+          url: '',
           title: 'Search the page',
           description: 'Find the search result page',
           images: [
@@ -47,7 +46,7 @@ export default function Search() {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'Rajdeep Singh',
+          site_name: 'The Digital Character Cafe',
         }}      
       />
             <Banner />

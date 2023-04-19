@@ -1,8 +1,6 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import { marked } from 'marked'
-import Link from 'next/link'
 import ItemPost from '../../components/ItemPost'
 import { slugify, ImageUrl } from '../../utils'
 import { NextSeo } from 'next-seo';
@@ -16,7 +14,7 @@ export default function Category({ posts }) {
      title= 'Access your category realted articles'
      description= 'Access your category realted articles'
         openGraph={{
-          url: 'https://officialrajdeepsingh.dev',
+          url: '',
           title: 'Access your category realted articles',
           description: 'Access your category realted articles',
 
@@ -29,7 +27,7 @@ export default function Category({ posts }) {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'Rajdeep Singh',
+          site_name: 'The Digital Character Cafe',
         }}
       />
 

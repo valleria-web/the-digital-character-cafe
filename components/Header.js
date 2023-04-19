@@ -6,7 +6,7 @@ export default function Header() {
             <div className="container">
                 <Link href="/">
                     <a className='navbar-brand'>
-                        Markdown + Nextjs
+                        Bitcoin + NFTs
                     </a>
                 </Link>
 
@@ -20,7 +20,7 @@ export default function Header() {
                         </Link>
                         <Link href="/">
                             <a className='nav-link'>
-                                <li className="nav-item">About </li>
+                                <li className="nav-item">. </li>
                             </a>
                         </Link>
                     </ul>

@@ -8,46 +8,31 @@ import { NextSeo } from 'next-seo';
 
 export default function PostPage({ content, frontmatter }) {
   const date = new Date(frontmatter.date)
-  const imageMeta= frontmatter.images.map(
-      image  =>  {
-       const imageUrl =  ImageUrl(image)
-        return {
-        url: imageUrl,
-        width: 1224,
-        height: 724,
-        alt: frontmatter.title,
-        type: 'image/jpeg',
-      }
-     }
-    )
-
-   
+  
   return (
     <>
      <NextSeo
         title={frontmatter.title} 
         description={frontmatter.summary}
         openGraph={{
-          url: 'https:officialrajdeepsingh.dev',
+          url: '',
           title: frontmatter.title,
           description: frontmatter.summary ,
           type: 'article',
           article: {
             publishedTime: frontmatter.date,
             authors: [
-              'https://officialrajdeepsingh.dev/pages/about',
+              '',
             ],
             tags: frontmatter.tags,
           },
-          images: imageMeta,
-          site_name: 'Rajdeep Singh',
         }}      
       />
       <div className="container my-5">
         <div className="row">
           <div className="col-lg-10 m-auto">
             <div className='card card-page'>
-              <a href={`/blog/${frontmatter.slug}`} > <img className="card-img-top" src={ImageUrl(frontmatter.image)} alt="..." /></a>
+              <a href={`/blog/${frontmatter.slug}`} ></a>
 
               <h1 className='post-title mt-2 p-2'>{frontmatter.title}</h1>
               <div className='post-date m-1 p-2'>

@@ -2,12 +2,12 @@ export default {
     openGraph: {
       type: 'website',
       locale: 'en_IE',
-      url: 'https://markdownnextjs.com',
-      site_name: 'Rajdeep Singh',
+      url: '',
+      site_name: 'The Digital Character Cafe',
     },
     twitter: {
-        handle: '@Official_R_deep',
-        site: '@Official_R_deep',
+        handle: '',
+        site: '',
         cardType: 'summary_large_image',
     }
   };
