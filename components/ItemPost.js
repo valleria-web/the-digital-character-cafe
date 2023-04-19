@@ -10,13 +10,14 @@ export default function ItemPost({ post: {post } }) {
     <div className="card mb-4">
       <Link href={`/blog/${post.slug}`}>
         <a>
-          <Image
-            className="card-img-top"
-            src={ImageUrl(post.images[0])}
-            alt={post.title}
-            width={200} // adjust this to your desired width
-            height={200} // adjust this to your desired height
-          />
+        <Image
+  className="card-img-top"
+  src={ImageUrl(post.images?.[0])}
+  alt={post.title}
+  width={200}
+  height={200}
+/>
+
         </a>
       </Link>
       <div className="card-body">
