@@ -34,14 +34,13 @@ export default function Home({ posts }) {
       <div className="container">
       <Sidebar />
         <div className="row">
-          <div className="col-md-9">
-            <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+          <div className="col">
+            <div className="row row-cols-1 row-cols-md-1 row-cols-lg-3 g-4">
               {posts.map((post, index) => (
                 <Post key={index} post={post} />
               ))}
             </div>
           </div>
-          <div className="col-md-3"></div>
         </div>
       </div>
       <style jsx>{`

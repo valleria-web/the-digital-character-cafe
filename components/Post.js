@@ -6,7 +6,7 @@ export default function Post({ post }) {
   const date = new Date(post.frontmatter?.date)
 
   return (
-    <div className="card mb-4">
+    <div className="card">
         <img
             src={`/${post.frontmatter.cover_image}`}
             alt={post.frontmatter.title}

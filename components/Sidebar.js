@@ -9,7 +9,7 @@ export default function Sidebar() {
   }
  
   return (
-    <div className="col">
+    <div>
 
       <div className="card mb-4">
         <div className="card-header">Search</div>
