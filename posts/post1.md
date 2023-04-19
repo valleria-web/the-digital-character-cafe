@@ -10,7 +10,7 @@ tags : ["npm", "npm-cli"]
 title : "Comando"
 draft : false
 ---
-![npm install command](/images/clay-pepes-1157.jpg "npm install command")"
+![](/images/clay-pepes-1157.jpg "npm install command")"
 
 
 

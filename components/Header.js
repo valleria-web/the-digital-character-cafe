@@ -20,7 +20,7 @@ export default function Header() {
                         </Link>
                         <Link href="/">
                             <a className='nav-link'>
-                                <li className="nav-item">. </li>
+                                <li className="nav-item">Cafe Staff</li>
                             </a>
                         </Link>
                     </ul>
