@@ -3,7 +3,7 @@ export default {
       type: 'website',
       locale: 'en_IE',
       url: '',
-      site_name: 'Acervo ODAEE',
+      site_name: 'The Digital Character Cafe',
     },
     twitter: {
         handle: '',

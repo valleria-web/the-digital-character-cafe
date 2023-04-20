@@ -25,7 +25,7 @@ export default function ItemPost({ post: { post } }) {
         <h2 className="card-title">{post.title}</h2>
         <p className="card-text">{post.summary}</p>
         <Link href={`/blog/${post.slug}`}>
-          <a className="btn">Leer más</a>
+          <a className="btn">Read more</a>
         </Link>
       </div>
     </div>

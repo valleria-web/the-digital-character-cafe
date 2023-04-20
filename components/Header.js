@@ -6,7 +6,7 @@ export default function Header() {
             <div className="container">
                 <Link href="/">
                     <a className='navbar-brand'>
-                        Acervo
+                        Bitcoin + NFTs
                     </a>
                 </Link>
 
@@ -15,7 +15,7 @@ export default function Header() {
                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                         <Link href="https://www.odaee.org/">
                             <a className='nav-link' target='_blank'>
-                                <li className="nav-item">www.odaee.org</li>
+                                <li className="nav-item">cafe staff</li>
                             </a>
                         </Link>
                         <Link href="/staff">
