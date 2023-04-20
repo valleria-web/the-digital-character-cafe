@@ -11,13 +11,13 @@ export default function Home({ posts }) {
   return (
     <div>
       <NextSeo
-        title="The Digital Character Cafe"
-        description="Where Bitcoin NFTs come to life with unique personalities and stories. It's a quirky and imaginative space that explores the potential of Ordinals NFTs"
+        title="Acervo ODAEE"
+        description="Compilación de artículos de la red ODAEE"
         openGraph={{
           url: "",
-          title: "Welcome to The Digital Character Cafe",
+          title: "Acervo ODAEE",
           description:
-            "Where Bitcoin NFTs come to life with unique personalities and stories. It's a quirky and imaginative space that explores the potential of Ordinals NFTs",
+            "Compilación de artículos de la red ODAEE",
           images: [
             {
               url: `${ImageUrl("banner.png")}`,
@@ -27,12 +27,12 @@ export default function Home({ posts }) {
               type: "image/jpeg",
             },
           ],
-          site_name: "The Digital Character Cafe",
+          site_name: "Acervo ODAEE",
         }}
       />
       <Banner />
       <div className="container">
-      <Sidebar />
+        <Sidebar />
         <div className="row">
           <div className="col">
             <div className="row row-cols-1 row-cols-md-1 row-cols-lg-3 g-4">

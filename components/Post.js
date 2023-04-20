@@ -5,6 +5,9 @@ export default function Post({ post }) {
 
   const date = new Date(post.frontmatter?.date)
 
+  // Dar formato a la fecha en formato latino
+  const formattedDate = date.toLocaleDateString('es-ES', { day: 'numeric', month: 'numeric', year: 'numeric' });
+
   return (
     <div className="card">
         <img
@@ -15,7 +18,7 @@ export default function Post({ post }) {
           />
 
       <div className="card-body">
-        <div className="small text-muted">{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`}</div>
+        <div className="small text-muted">{formattedDate}</div>
         <div>
           {post.frontmatter.tags.map((tag) => {
             const slug = slugify(tag)
@@ -31,7 +34,7 @@ export default function Post({ post }) {
         <h2 className="card-title">{post.frontmatter.title}</h2>
         <p className="card-text">{post.frontmatter.summary}</p>
         <Link href={`/blog/${post.slug}`}>
-          <a className="btn btn-primary">Read More</a>
+          <a className="btn btn-primary">Leer más</a>
         </Link>
       </div>
     </div>

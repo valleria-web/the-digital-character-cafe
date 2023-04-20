@@ -46,7 +46,7 @@ export default function Search() {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'The Digital Character Cafe',
+          site_name: 'Acervo ODAEE',
         }}      
       />
             <Banner />
