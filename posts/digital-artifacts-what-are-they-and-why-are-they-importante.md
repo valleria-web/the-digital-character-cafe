@@ -20,4 +20,6 @@ Digital artifacts are digital objects that have certain properties that make the
 Read more: https://docs.ordinals.com/digital-artifacts.html#digital-artifacts 
 
 
-<img src="/images/digitalartifacts2.png" alt="portada revista" style="width:100%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+<a href="https://www.youtube.com/shorts/JssBqfxECEI" target="_blank">
+  <img src="/images/digitalartifacts2.png" alt="portada revista" style="width:50%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+</a>
