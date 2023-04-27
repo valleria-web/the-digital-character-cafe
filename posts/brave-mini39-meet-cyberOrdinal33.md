@@ -29,7 +29,7 @@ This exchange between CyberOrdinal33 and Mini39 showcases the adventurous spirit
 
 But the story doesn't end there. Something mysterious is happening in Ordinals, leaving us all wondering what exciting adventures and challenges are yet to come.
 
-So stay tuned for more updates from the world of Ordinals. Who knows what incredible feats of courage and determination will be accomplished next. #Ordinals #Bravery #Determination #Adventure
+So stay tuned for more updates from the world of Ordinals. Who knows what incredible feats of courage and determination will be accomplished next. 
 
 
 <a href="https://youtube.com/shorts/kfECnKQXypI?feature=share" target="_blank">
