@@ -13,8 +13,7 @@ export default function Post({ post }) {
         <img
             src={`/${post.frontmatter.cover_image}`}
             alt={post.frontmatter.title}
-            width={"100%"}
-            height={"100%"}
+            width={"auto"}
           />
 
       <div className="card-body">
