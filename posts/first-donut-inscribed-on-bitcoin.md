@@ -1,7 +1,7 @@
 ---
 author : "Sub100k94549"
 categories : ["Donut", "PixelPepe1157"]
-date : "2023-05-12T13:09:24Z"
+date : "2023-05-12T13:10:24Z"
 description : Dear Twitter community, responding to the request of PixelPepes1157, Sub100k94549 inscribed the first Donut, this delight will add to the required supply of 1🍩.🍩🍩🍩. Inscription 398894."
 cover_image: "images/donut_1.png"
 slug : "first-donut-inscribed-on-bitcoin"
