@@ -1,12 +1,12 @@
 ---
 author : "Sub100k94549"
-categories : ["Donut", "PixelPepe1157"]
+categories : ["Ordinals", "Inscriptions"]
 date : "2023-05-12T13:11:24Z"
 description : "No one knew exactly when the Ordinal portal would open, but when we finally received confirmation that the moment had arrived, it was a race to the CLI to execute the command. The excitement in the air was palpable as we watched the number of registrations skyrocket, confirming that the portal was open and that there was life on the other side."
 cover_image: "images/degenerate.png"
 slug : "crossing-the-ordinal-portal"
 summary : "No one knew exactly when the Ordinal portal would open, but when we finally received confirmation that the moment had arrived, it was a race to the CLI to execute the command. The excitement in the air was palpable as we watched the number of registrations skyrocket, confirming that the portal was open and that there was life on the other side."
-tags : ["Donut", "PixelPepe1157"]
+tags : ["Ordinals", "Inscriptions"]
 title : "Crossing the Ordinal Portal"
 draft : false                   
 ---
