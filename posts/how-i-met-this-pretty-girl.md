@@ -13,7 +13,7 @@ draft : false
 
 # Missing out on a great story! That's how I met this pretty girl, tune in now for the full scoop. 👀❤️
 
-Missing out on a great story! That's how I met this pretty girl, tune in now for the full scoop. 👀❤️.
+Missing out on a great story! That's how I met this pretty girl, tune in no w for the full scoop. 👀❤️.
 
 
 <div style="text-align: center;">
