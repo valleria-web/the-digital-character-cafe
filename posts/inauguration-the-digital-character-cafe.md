@@ -21,7 +21,4 @@ Inauguration The Digital Character Cafe.
 </div>
 
 
-<img src="/images/inaguration-2.png" alt="Inauguration The Digital Character Cafe" style="width:100%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-
-
 
