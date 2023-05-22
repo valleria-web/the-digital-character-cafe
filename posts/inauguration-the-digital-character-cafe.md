@@ -3,7 +3,7 @@ author : "Sub100k94549"
 categories : ["Cafe", "Inauguration"]
 date : "2023-05-22T13:09:24Z"
 description : "Inauguration The Digital Character Cafe"
-cover_image: "images/Inaguration-2.png"
+cover_image: "images/inaguration-2.png"
 slug : "inauguration-the-digital-character-cafe"
 summary : "Inauguration The Digital Character Cafe"
 tags : ["Cafe", "Inauguration"]
