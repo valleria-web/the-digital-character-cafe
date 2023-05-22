@@ -2,7 +2,7 @@
 author : "Sub100k94549"
 categories : ["Donut", "PixelPepe1157"]
 date : "2023-05-12T13:09:24Z"
-description : Every day dozens of humanoids, animals and various forms of life materialize in Bitcoin, these beings bring with them a supply of 10,000 sats that will cover their needs for a few days, when this supply runs out they will have to have Donuts to eat says Pixel Pepes #1157."
+description : "Every day dozens of humanoids, animals and various forms of life materialize in Bitcoin, these beings bring with them a supply of 10,000 sats that will cover their needs for a few days, when this supply runs out they will have to have Donuts to eat says Pixel Pepes #1157."
 cover_image: "images/pixel-pepe1157.png"
 slug : "10000-donuts-are-required-in-Bitcoin-to-satisfy-the-growing-Ordinal-population"
 summary : "Every day dozens of humanoids, animals and various forms of life materialize in Bitcoin, these beings bring with them a supply of 10,000 sats that will cover their needs for a few days, when this supply runs out they will have to have Donuts to eat says Pixel Pepes #1157."
